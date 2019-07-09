@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFisrtConsoleAppUsingGitHub", "MyFisrtConsoleAppUsingGitHub\MyFisrtConsoleAppUsingGitHub.csproj", "{86F33E07-D084-4FB7-AE62-5EB691DAFD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F33E07-D084-4FB7-AE62-5EB691DAFD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F33E07-D084-4FB7-AE62-5EB691DAFD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F33E07-D084-4FB7-AE62-5EB691DAFD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F33E07-D084-4FB7-AE62-5EB691DAFD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {738B4180-1756-42F4-9C41-27236C5191FD}
+	EndGlobalSection
+EndGlobal
