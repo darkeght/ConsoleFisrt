@@ -6,7 +6,7 @@ namespace MyFisrtConsoleAppUsingGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Example For Git");
+            Console.WriteLine("Alter Text For Example!");
             Console.ReadKey();
         }
     }
